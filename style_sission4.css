@@ -1,0 +1,33 @@
+.table{
+    text-align: center;
+    background-color: #f4f4f4;
+    color:#2c3f50 ;
+}
+.table1{
+    background-color:#027bff;
+    color: white;
+}
+.table2{
+    background-color:white ;
+    color:black ;
+}
+th,
+td{
+    padding: 5px;
+}
+.View{
+    background-color: green;
+    color: white; 
+    border:none 
+}
+.Updete{
+    background-color: yellow;
+    color: black;
+    border: none;
+}
+.Delete{
+    background-color: red;
+    color: white;
+     border:none
+}
+ 
