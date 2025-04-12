@@ -1,9 +1,21 @@
-.abc{
-    color: #4483b1;
-    background-color: white;
-    width: 100%;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-.xyz{
+h2{
+    color: #4483b1;
+    margin-bottom: 20px;
+}
+.content{
     background-color:#fffaef;
-    border-left: 5px solid yellow;
+    border-left: 5px solid #dfc94e;
+    padding: 7px;
+    margin-top: 20px;
+}
+.content .abc{
+    margin: 20px 0;
+}
+.content .xyz{
+    margin-bottom: 20px;
 }
